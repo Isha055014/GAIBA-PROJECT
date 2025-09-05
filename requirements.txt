@@ -1,0 +1,16 @@
+streamlit==1.32.0
+sentence-transformers==2.2.2
+transformers==4.36.2
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+faiss-cpu==1.7.4
+pypdf==3.17.4
+yfinance==0.2.33
+pandas==2.1.4
+numpy==1.24.4
+requests==2.31.0
+nltk==3.8.1
+langchain-text-splitters==0.0.1
+pydantic==2.5.3
+python-dotenv==1.0.1
