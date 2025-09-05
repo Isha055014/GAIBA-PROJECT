@@ -2,7 +2,7 @@ streamlit==1.32.0
 sentence-transformers==2.2.2
 transformers==4.36.2
 torch
-torchvision==0.16.2
+torchvision
 torchaudio==2.1.2
 faiss-cpu==1.7.4
 pypdf==3.17.4
@@ -15,3 +15,4 @@ langchain-text-splitters==0.0.1
 pydantic==2.5.3
 
 python-dotenv==1.0.1
+
