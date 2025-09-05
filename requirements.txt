@@ -6,15 +6,15 @@ torchvision
 torchaudio
 faiss-cpu
 pypdf
-yfinance==0.2.33
-pandas==2.1.4
-numpy==1.24.4
-requests==2.31.0
-nltk==3.8.1
-langchain-text-splitters==0.0.1
-pydantic==2.5.3
+yfinance
+pandas
+numpy
+requests
+nltk
+langchain-text-splitters
+pydantic
+python-dotenv
 
-python-dotenv==1.0.1
 
 
 
